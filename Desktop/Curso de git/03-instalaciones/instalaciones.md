@@ -2,5 +2,5 @@
 Seguir estos pasos:
 
 ```
-npm install
+yarn install
 ```
